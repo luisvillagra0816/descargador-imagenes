@@ -9,5 +9,5 @@ build:
 
 
 python:
-  version: 3.12
-  install: requirements.txt
+    install:
+    - requirements: docs/requirements.txt
